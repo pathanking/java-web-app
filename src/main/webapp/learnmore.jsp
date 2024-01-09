@@ -13,6 +13,10 @@
 	<form action="WelcomeServlet" method="post">
 		User Name: <input type="text" name="un" placeholder="Enter Username!">
 		<br>
+		
+		Password: <input type="password" name="pw" placeholder="Enter Username!">
+		<br>
+		
 
 		<button type="submit">Submit</button>
 	</form>
